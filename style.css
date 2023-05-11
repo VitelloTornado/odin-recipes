@@ -1,0 +1,24 @@
+* {
+    font-family: "Georgia", "Garamond", serif;
+    background-color: beige;
+    text-align: center;
+}
+.image {
+    text-align: center;
+}
+h1 {
+    color: midnightblue;
+    font-style: italic;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    opacity: 0.5;
+}
+li {
+   
+    list-style-position: inside;
+}
+
+
